@@ -163,6 +163,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Code share](https://codeshare.io) : Share code in real-time with other developers
 - [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
 - [OS Query](https://osquery.io/) : Easily ask questions about your Linux, Windows, and macOS infrastructure
+- [kandi](https://kandi.openweaver.com/) : Jumpstart application development by finding the required open source resource
+
 
 ## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
